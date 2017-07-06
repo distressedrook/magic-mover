@@ -1,10 +1,9 @@
-package com.magicmover.com.magicmover.regex;
+package com.magicmover.regex;
 
 
 import com.magicmover.models.Occurrence;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 import java.util.List;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package com.magicmover.com.magicmover.regex;
+package com.magicmover.regex;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
